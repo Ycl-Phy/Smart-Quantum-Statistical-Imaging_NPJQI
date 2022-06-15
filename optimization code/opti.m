@@ -1,7 +1,7 @@
 clc;
 clear;
 
-load('data_orig.mat');
+load('data.mat');
 d=Interference;
 dim=length(d);
 
